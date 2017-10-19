@@ -1,9 +1,118 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14beb88a-a598-4c02-a64b-24d021c664a3" name="Default" comment="">
+    <list default="true" id="14beb88a-a598-4c02-a64b-24d021c664a3" name="Default" comment="deploy issues">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/AndreasCV.pdf" afterPath="$PROJECT_DIR$/AndreasCV.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/AttestBA.pdf" afterPath="$PROJECT_DIR$/AttestBA.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/AttestPosten.pdf" afterPath="$PROJECT_DIR$/AttestPosten.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/AttestSA.pdf" afterPath="$PROJECT_DIR$/AttestSA.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/BachelorAndreasHanekamhaug.pdf" afterPath="$PROJECT_DIR$/BachelorAndreasHanekamhaug.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/JTI resultater Andreas Hanekamhaug.pdf" afterPath="$PROJECT_DIR$/JTI resultater Andreas Hanekamhaug.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/MasteroppgaveAndreasHanekamhaug.pdf" afterPath="$PROJECT_DIR$/MasteroppgaveAndreasHanekamhaug.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/blog-single.html" afterPath="$PROJECT_DIR$/blog-single.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/blog.html" afterPath="$PROJECT_DIR$/blog.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/css/font-awesome.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/css/jquery-ui.css" afterPath="$PROJECT_DIR$/css/jquery-ui.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/css/magnific-popup.css" afterPath="$PROJECT_DIR$/css/magnific-popup.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/css/owl.carousel.css" afterPath="$PROJECT_DIR$/css/owl.carousel.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/css/owl.video.play.html" afterPath="$PROJECT_DIR$/css/owl.video.play.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/css/responsive.css" afterPath="$PROJECT_DIR$/css/responsive.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/css/themify-icons.css" afterPath="$PROJECT_DIR$/css/themify-icons.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/error-404.html" afterPath="$PROJECT_DIR$/error-404.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/fonts/fontawesome-webfont3295.eot" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont3295.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/fonts/fontawesome-webfont3295.html" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont3295.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/fonts/fontawesome-webfont3295.svg" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont3295.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/fonts/fontawesome-webfont3295.ttf" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont3295.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/fonts/fontawesome-webfont3295.woff" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont3295.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/fonts/fontawesome-webfontd41d.eot" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfontd41d.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/fonts/glyphicons-halflings-regular-2.html" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular-2.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/fonts/glyphicons-halflings-regular-3.html" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular-3.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/fonts/glyphicons-halflings-regular-4.html" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular-4.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/fonts/glyphicons-halflings-regular-5.html" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular-5.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/fonts/glyphicons-halflings-regular.html" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/fonts/glyphicons-halflings-regulard41d.html" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regulard41d.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/fonts/themify9f24.eot" afterPath="$PROJECT_DIR$/fonts/themify9f24.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/fonts/themify9f24.svg" afterPath="$PROJECT_DIR$/fonts/themify9f24.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/fonts/themify9f24.ttf" afterPath="$PROJECT_DIR$/fonts/themify9f24.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/fonts/themify9f24.woff" afterPath="$PROJECT_DIR$/fonts/themify9f24.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/fonts/themifyd41d.eot" afterPath="$PROJECT_DIR$/fonts/themifyd41d.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/BGA.JPG" afterPath="$PROJECT_DIR$/images/BGA.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/BTS Invest versjon 2.jpg" afterPath="$PROJECT_DIR$/images/BTS Invest versjon 2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/Icons/Map-Marker-Marker-Outside-Azure-icon.png" afterPath="$PROJECT_DIR$/images/Icons/Map-Marker-Marker-Outside-Azure-icon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/Icons/beaming.png" afterPath="$PROJECT_DIR$/images/Icons/beaming.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/Icons/hug.png" afterPath="$PROJECT_DIR$/images/Icons/hug.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/Icons/wink.png" afterPath="$PROJECT_DIR$/images/Icons/wink.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/Mee.JPG" afterPath="$PROJECT_DIR$/images/Mee.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/Spinner.gif" afterPath="$PROJECT_DIR$/images/Spinner.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/ajax-loader-white.gif" afterPath="$PROJECT_DIR$/images/ajax-loader-white.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/arrow-left.png" afterPath="$PROJECT_DIR$/images/arrow-left.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/arrow-right.png" afterPath="$PROJECT_DIR$/images/arrow-right.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/bg/01.jpg" afterPath="$PROJECT_DIR$/images/bg/01.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/bg/02.jpg" afterPath="$PROJECT_DIR$/images/bg/02.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/bgtest.JPG" afterPath="$PROJECT_DIR$/images/bgtest.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/blog/01.jpg" afterPath="$PROJECT_DIR$/images/blog/01.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/blog/02.jpg" afterPath="$PROJECT_DIR$/images/blog/02.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/blog/03.jpg" afterPath="$PROJECT_DIR$/images/blog/03.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/blog/04.jpg" afterPath="$PROJECT_DIR$/images/blog/04.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/blog/05.jpg" afterPath="$PROJECT_DIR$/images/blog/05.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/blog/06.jpg" afterPath="$PROJECT_DIR$/images/blog/06.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/blog/07.jpg" afterPath="$PROJECT_DIR$/images/blog/07.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/blog/08.jpg" afterPath="$PROJECT_DIR$/images/blog/08.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/blog/09.jpg" afterPath="$PROJECT_DIR$/images/blog/09.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/blog/10.jpg" afterPath="$PROJECT_DIR$/images/blog/10.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/blog/11.jpg" afterPath="$PROJECT_DIR$/images/blog/11.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/chainsawbird.jpg" afterPath="$PROJECT_DIR$/images/chainsawbird.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/chainsawbird.png" afterPath="$PROJECT_DIR$/images/chainsawbird.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/close.png" afterPath="$PROJECT_DIR$/images/close.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/compicons/HVLlogo.png" afterPath="$PROJECT_DIR$/images/compicons/HVLlogo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/compicons/Secbaseicon.png" afterPath="$PROJECT_DIR$/images/compicons/Secbaseicon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/compicons/UiS.png" afterPath="$PROJECT_DIR$/images/compicons/UiS.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/compicons/postenicon.png" afterPath="$PROJECT_DIR$/images/compicons/postenicon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/compicons/saicon.png" afterPath="$PROJECT_DIR$/images/compicons/saicon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/desktop.ini" afterPath="$PROJECT_DIR$/images/desktop.ini" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/favicon(1).ico" afterPath="$PROJECT_DIR$/images/favicon(1).ico" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/favicon.ico" afterPath="$PROJECT_DIR$/images/favicon.ico" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/faviconlogo.png" afterPath="$PROJECT_DIR$/images/faviconlogo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/faviconlogo1.png" afterPath="$PROJECT_DIR$/images/faviconlogo1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/faviconnew.ico" afterPath="$PROJECT_DIR$/images/faviconnew.ico" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/himandher.jpg" afterPath="$PROJECT_DIR$/images/himandher.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/himandher.png" afterPath="$PROJECT_DIR$/images/himandher.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/logo.png" afterPath="$PROJECT_DIR$/images/logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/logoA.png" afterPath="$PROJECT_DIR$/images/logoA.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/logoA1.png" afterPath="$PROJECT_DIR$/images/logoA1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/logoA2.png" afterPath="$PROJECT_DIR$/images/logoA2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/logoA3.png" afterPath="$PROJECT_DIR$/images/logoA3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/logoA4.png" afterPath="$PROJECT_DIR$/images/logoA4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/logoA5.png" afterPath="$PROJECT_DIR$/images/logoA5.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/logoA6.png" afterPath="$PROJECT_DIR$/images/logoA6.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/mebg.jpg" afterPath="$PROJECT_DIR$/images/mebg.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/portfolio/01.jpg" afterPath="$PROJECT_DIR$/images/portfolio/01.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/portfolio/02.jpg" afterPath="$PROJECT_DIR$/images/portfolio/02.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/portfolio/03.jpg" afterPath="$PROJECT_DIR$/images/portfolio/03.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/portfolio/04.jpg" afterPath="$PROJECT_DIR$/images/portfolio/04.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/portfolio/05.jpg" afterPath="$PROJECT_DIR$/images/portfolio/05.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/portfolio/06.jpg" afterPath="$PROJECT_DIR$/images/portfolio/06.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/portfolio/07.jpg" afterPath="$PROJECT_DIR$/images/portfolio/07.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/portfolio/08.jpg" afterPath="$PROJECT_DIR$/images/portfolio/08.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/signature.png" afterPath="$PROJECT_DIR$/images/signature.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/signatureA.png" afterPath="$PROJECT_DIR$/images/signatureA.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/signatureA1.png" afterPath="$PROJECT_DIR$/images/signatureA1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/ui-bg_glass_55_fbf9ee_1x400.html" afterPath="$PROJECT_DIR$/images/ui-bg_glass_55_fbf9ee_1x400.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/ui-bg_glass_65_ffffff_1x400.html" afterPath="$PROJECT_DIR$/images/ui-bg_glass_65_ffffff_1x400.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/ui-bg_glass_75_e6e6e6_1x400.html" afterPath="$PROJECT_DIR$/images/ui-bg_glass_75_e6e6e6_1x400.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/ui-bg_glass_95_fef1ec_1x400.html" afterPath="$PROJECT_DIR$/images/ui-bg_glass_95_fef1ec_1x400.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/images/ui-bg_highlight-soft_75_cccccc_1x100.html" afterPath="$PROJECT_DIR$/images/ui-bg_highlight-soft_75_cccccc_1x100.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/js/custom.js" afterPath="$PROJECT_DIR$/js/custom.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/js/datepicker-script.js" afterPath="$PROJECT_DIR$/js/datepicker-script.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/js/jquery.min.js" afterPath="$PROJECT_DIR$/js/jquery.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/js/map-scripts.js" afterPath="$PROJECT_DIR$/js/map-scripts.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/js/modernizr.min.js" afterPath="$PROJECT_DIR$/js/modernizr.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/js/plugins.js" afterPath="$PROJECT_DIR$/js/plugins.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Hjemmesiden/portfolio-single.html" afterPath="$PROJECT_DIR$/portfolio-single.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CNAME" afterPath="$PROJECT_DIR$/CNAME" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,44 +124,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Hjemmesiden/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="497">
-              <caret line="208" column="26" lean-forward="false" selection-start-line="208" selection-start-column="26" selection-end-line="208" selection-end-column="26" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#16188#16195#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="CNAME" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CNAME">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Hjemmesiden/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1224">
-              <caret line="72" column="33" lean-forward="false" selection-start-line="72" selection-start-column="33" selection-end-line="72" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="custom.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Hjemmesiden/js/custom.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2380">
-              <caret line="140" column="7" lean-forward="false" selection-start-line="140" selection-start-column="7" selection-end-line="140" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -105,6 +181,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -112,140 +189,19 @@
               <item name="hanekamhaug.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="hanekamhaug.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="hanekamhaug.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hanekamhaug.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hanekamhaug.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hanekamhaug.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="Hjemmesiden" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="Scope" />
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-  </component>
-  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
-    <UpdatedFiles>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Updated from server" />
-        <option name="myStatusName" value="Changed on server" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="CHANGED_ON_SERVER" />
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Updated" />
-          <option name="myStatusName" value="Changed" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="UPDATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/CNAME</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Created" />
-          <option name="myStatusName" value="Created" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="CREATED" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Deleted" />
-          <option name="myStatusName" value="Deleted" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="true" />
-          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Hjemmesiden/README.md</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Restored" />
-          <option name="myStatusName" value="Will be restored" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="RESTORED" />
-        </FILE-GROUP>
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Modified" />
-        <option name="myStatusName" value="Modified" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MODIFIED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Skipped" />
-        <option name="myStatusName" value="Skipped" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SKIPPED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with conflicts" />
-        <option name="myStatusName" value="Will be merged with conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_CONFLICTS" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with tree conflicts" />
-        <option name="myStatusName" value="Merged with tree conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with property conflicts" />
-        <option name="myStatusName" value="Will be merged with property conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged" />
-        <option name="myStatusName" value="Will be merged" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Not in repository" />
-        <option name="myStatusName" value="Not in repository" />
-        <option name="mySupportsDeletion" value="true" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="UNKNOWN" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally added" />
-        <option name="myStatusName" value="Locally added" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_ADDED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally removed" />
-        <option name="myStatusName" value="Locally removed" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_REMOVED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Switched" />
-        <option name="myStatusName" value="Switched" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SWITCHED" />
-      </FILE-GROUP>
-    </UpdatedFiles>
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -366,6 +322,9 @@
       <workItem from="1508413140720" duration="569000" />
       <workItem from="1508416320602" duration="1181000" />
       <workItem from="1508419671859" duration="1300000" />
+      <workItem from="1508433807277" duration="14000" />
+      <workItem from="1508435432235" duration="606000" />
+      <workItem from="1508438845912" duration="172000" />
     </task>
     <task id="LOCAL-00001" summary="deploy issues">
       <created>1508416414988</created>
@@ -378,7 +337,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9930000" />
+    <option name="totallyTimeSpent" value="10722000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
@@ -395,7 +354,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298611" sideWeight="0.49676377" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27912623" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28883496" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -426,60 +385,42 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Hjemmesiden/index.html">
+    <entry file="file://$PROJECT_DIR$/CNAME">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#16188#16195#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hjemmesiden/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1224">
-          <caret line="72" column="33" lean-forward="false" selection-start-line="72" selection-start-column="33" selection-end-line="72" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Hjemmesiden/js/custom.js">
+    <entry file="file://$PROJECT_DIR$/Hjemmesiden/index.html" />
+    <entry file="file://$PROJECT_DIR$/Hjemmesiden/js/custom.js" />
+    <entry file="file://$PROJECT_DIR$/Hjemmesiden/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/CNAME">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2380">
-          <caret line="140" column="7" lean-forward="false" selection-start-line="140" selection-start-column="7" selection-end-line="140" selection-end-column="7" />
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Hjemmesiden/index.html">
+    <entry file="file://$PROJECT_DIR$/Hjemmesiden/index.html" />
+    <entry file="file://$PROJECT_DIR$/Hjemmesiden/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/Hjemmesiden/js/custom.js" />
+    <entry file="file://$PROJECT_DIR$/CNAME">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3536">
-          <caret line="208" column="26" lean-forward="false" selection-start-line="208" selection-start-column="26" selection-end-line="208" selection-end-column="26" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#16188#16195#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hjemmesiden/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1224">
-          <caret line="72" column="33" lean-forward="false" selection-start-line="72" selection-start-column="33" selection-end-line="72" selection-end-column="33" />
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Hjemmesiden/js/custom.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2380">
-          <caret line="140" column="7" lean-forward="false" selection-start-line="140" selection-start-column="7" selection-end-line="140" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Hjemmesiden/index.html" />
+    <entry file="file://$PROJECT_DIR$/Hjemmesiden/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/Hjemmesiden/js/custom.js" />
+    <entry file="file://$PROJECT_DIR$/Hjemmesiden/index.html" />
+    <entry file="file://$PROJECT_DIR$/Hjemmesiden/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/Hjemmesiden/js/custom.js" />
     <entry file="file://$PROJECT_DIR$/CNAME">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -488,170 +429,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Hjemmesiden/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#16188#16195#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hjemmesiden/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1224">
-          <caret line="72" column="33" lean-forward="false" selection-start-line="72" selection-start-column="33" selection-end-line="72" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hjemmesiden/js/custom.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2380">
-          <caret line="140" column="7" lean-forward="false" selection-start-line="140" selection-start-column="7" selection-end-line="140" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hjemmesiden/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#16188#16195#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hjemmesiden/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1224">
-          <caret line="72" column="33" lean-forward="false" selection-start-line="72" selection-start-column="33" selection-end-line="72" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hjemmesiden/js/custom.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2380">
-          <caret line="140" column="7" lean-forward="false" selection-start-line="140" selection-start-column="7" selection-end-line="140" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hjemmesiden/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#16188#16195#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hjemmesiden/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1224">
-          <caret line="72" column="33" lean-forward="false" selection-start-line="72" selection-start-column="33" selection-end-line="72" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hjemmesiden/js/custom.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2380">
-          <caret line="140" column="7" lean-forward="false" selection-start-line="140" selection-start-column="7" selection-end-line="140" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hjemmesiden/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#16188#16195#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hjemmesiden/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1224">
-          <caret line="72" column="33" lean-forward="false" selection-start-line="72" selection-start-column="33" selection-end-line="72" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hjemmesiden/js/custom.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2380">
-          <caret line="140" column="7" lean-forward="true" selection-start-line="140" selection-start-column="7" selection-end-line="140" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hjemmesiden/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#16188#16195#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hjemmesiden/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hjemmesiden/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#16188#16195#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hjemmesiden/js/custom.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2380">
-          <caret line="140" column="7" lean-forward="false" selection-start-line="140" selection-start-column="7" selection-end-line="140" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hjemmesiden/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1224">
-          <caret line="72" column="33" lean-forward="false" selection-start-line="72" selection-start-column="33" selection-end-line="72" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hjemmesiden/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="58" lean-forward="false" selection-start-line="0" selection-start-column="58" selection-end-line="0" selection-end-column="58" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Hjemmesiden/index.html" />
+    <entry file="file://$PROJECT_DIR$/Hjemmesiden/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/Hjemmesiden/js/custom.js" />
+    <entry file="file://$PROJECT_DIR$/Hjemmesiden/index.html" />
+    <entry file="file://$PROJECT_DIR$/Hjemmesiden/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/Hjemmesiden/js/custom.js" />
+    <entry file="file://$PROJECT_DIR$/Hjemmesiden/index.html" />
+    <entry file="file://$PROJECT_DIR$/Hjemmesiden/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/Hjemmesiden/js/custom.js" />
+    <entry file="file://$PROJECT_DIR$/Hjemmesiden/index.html" />
+    <entry file="file://$PROJECT_DIR$/Hjemmesiden/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/Hjemmesiden/js/custom.js" />
+    <entry file="file://$PROJECT_DIR$/Hjemmesiden/index.html" />
+    <entry file="file://$PROJECT_DIR$/Hjemmesiden/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/Hjemmesiden/index.html" />
+    <entry file="file://$PROJECT_DIR$/Hjemmesiden/js/custom.js" />
+    <entry file="file://$PROJECT_DIR$/Hjemmesiden/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/Hjemmesiden/README.md" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -659,17 +454,6 @@
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="70" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hjemmesiden/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="497">
-          <caret line="208" column="26" lean-forward="false" selection-start-line="208" selection-start-column="26" selection-end-line="208" selection-end-column="26" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#16188#16195#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -681,5 +465,6 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Hjemmesiden/index.html" />
   </component>
 </project>
