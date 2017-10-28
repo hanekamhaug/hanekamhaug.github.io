@@ -76,8 +76,7 @@ button.button-small:hover { background: #07cb79; }
 #loading-center-absolute { position: absolute; left: 50%; top: 50%; height: 50px; width: 50px; margin-top: -25px; margin-left: -25px; -ms-transform: rotate(45deg); -webkit-transform: rotate(45deg); -o-transform: rotate(45deg); transform: rotate(45deg); -ms-animation: loading-center-absolute 1.5s infinite; -moz-animation: loading-center-absolute 1.5s infinite;
   -o-animation: loading-center-absolute 1.5s infinite; -webkit-animation: loading-center-absolute 1.5s infinite; animation: loading-center-absolute 1.5s infinite; }
 .object { width: 25px; height: 25px; background-color: #FFF; float: left; }
- #Spinnerloader { position: absolute; top: 50%; left: 0px; right: 0px; transform: translateY(-50%); -webkit-transform: translateY(-50%); -ms-transform: translateY(-50%); -o-transform: translateY(-50%); -moz-transform: translateY(-50%); }
-
+ #Spinnerloader { position: center; }
 /*************************
      intro-bg
 *************************/
