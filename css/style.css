@@ -77,6 +77,13 @@ button.button-small:hover { background: #07cb79; }
   -o-animation: loading-center-absolute 1.5s infinite; -webkit-animation: loading-center-absolute 1.5s infinite; animation: loading-center-absolute 1.5s infinite; }
 .object { width: 25px; height: 25px; background-color: #FFF; float: left; }
  #Spinnerloader { position: center; }
+
+ /*
+ Add to "spinnerloader" if removal of the loader
+
+ top: 50%; left: 0px; right: 0px; transform: translateY(-50%); -webkit-transform: translateY(-50%); -ms-transform: translateY(-50%); -o-transform: translateY(-50%); -moz-transform: translateY(-50%); }
+*/
+
 /*************************
      intro-bg
 *************************/
