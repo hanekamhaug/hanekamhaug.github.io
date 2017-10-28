@@ -18,9 +18,21 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="267" column="44" lean-forward="false" selection-start-line="267" selection-start-column="44" selection-end-line="267" selection-end-column="44" />
+            <state relative-caret-position="-3553">
+              <caret line="136" column="23" lean-forward="false" selection-start-line="136" selection-start-column="23" selection-end-line="136" selection-end-column="23" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/custom.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3026">
+              <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+              <folding>
+                <marker date="1509144436673" expanded="true" signature="5353:5360" ph="™" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -81,6 +93,16 @@
             <path>
               <item name="hjemmesiden" type="b2602c69:ProjectViewProjectNode" />
               <item name="hjemmesiden" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hjemmesiden" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hjemmesiden" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hjemmesiden" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hjemmesiden" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -217,7 +239,7 @@
       <workItem from="1508433807277" duration="14000" />
       <workItem from="1508435432235" duration="606000" />
       <workItem from="1508438845912" duration="172000" />
-      <workItem from="1509144440076" duration="1828000" />
+      <workItem from="1509144440076" duration="4900000" />
     </task>
     <task id="LOCAL-00001" summary="deploy issues">
       <created>1508416414988</created>
@@ -240,11 +262,18 @@
       <option name="project" value="LOCAL" />
       <updated>1509146247909</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="remove JIT DL">
+      <created>1509150059492</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1509150059492</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12550000" />
+    <option name="totallyTimeSpent" value="15622000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -288,7 +317,8 @@
     <MESSAGE value="deploy issues" />
     <MESSAGE value="Added tracking" />
     <MESSAGE value="remove unused links to social medias" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove unused links to social medias" />
+    <MESSAGE value="remove JIT DL" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove JIT DL" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -384,10 +414,20 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Hjemmesiden/index.html" />
+    <entry file="file://$PROJECT_DIR$/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3026">
+          <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+          <folding>
+            <marker date="1509144436673" expanded="true" signature="5353:5360" ph="™" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="267" column="44" lean-forward="false" selection-start-line="267" selection-start-column="44" selection-end-line="267" selection-end-column="44" />
+        <state relative-caret-position="-3553">
+          <caret line="136" column="23" lean-forward="false" selection-start-line="136" selection-start-column="23" selection-end-line="136" selection-end-column="23" />
           <folding />
         </state>
       </provider>
