@@ -129,7 +129,7 @@ if ($(window).width() > 992) {
     $("#ajaxloader").show();
     $("#contactform").hide();
     $.ajax({
-      url:'www.hanekamhaug.com',
+      url:'ajax.php',
       data:$(this).serialize(),
       type:'post',
       success:function(response){

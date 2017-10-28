@@ -437,7 +437,7 @@ textarea:focus { background: transparent; box-shadow: 0 0 17px 0 #ebebeb; outlin
 .contact-form textarea:focus { box-shadow: none; border:1px solid #07cb79; }
 .contact-form a.button-small { border-radius: 3px; background: #464e5a; width: 100%; padding: 10px; font-size: 14px; text-transform: uppercase; color: #fff; font-weight: 400; text-align: center; display: block; cursor: pointer; }
 .contact-form a.button-small:hover { background: #07cb79;  }
-#formmessage { display: run-in; }
+#formmessage { display: none; }
 
 
  /*================================ inner page =======================================*/
