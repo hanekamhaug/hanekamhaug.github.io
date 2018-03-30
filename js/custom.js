@@ -125,7 +125,7 @@ if ($(window).width() > 992) {
 /*************************
      php contact form 
 *************************/
-  $( "#contactform" ).submit(function( e ) {
+/*  $( "#contactform" ).submit(function( e ) {
     $("#ajaxloader").show();
     $("#contactform").hide();
     $.ajax({
@@ -141,7 +141,7 @@ if ($(window).width() > 992) {
     });
     e.preventDefault();
   });
-
+*/
 /*************************
          chart
 *************************/
