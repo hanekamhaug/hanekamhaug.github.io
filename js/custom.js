@@ -129,7 +129,7 @@ if ($(window).width() > 992) {
     $("#ajaxloader").show();
     $("#contactform").hide();
     $.ajax({
-      url:'ajax.php',
+      url:'$(form).attr(\'action\')',
       data:$(this).serialize(),
       type:'post',
       success:function(response){

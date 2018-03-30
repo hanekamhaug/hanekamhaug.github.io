@@ -1,7 +1,7 @@
 <?php include('form_process.php'); ?>
 <link rel="stylesheet" href="css/style.css" type="text/css">
 <div class="container">
-    <form id="contact" action="<?= htmlspecialchars($_SERVER["PHP_SELF"]) ?>" method="post">
+    <form id="form" action="<?= htmlspecialchars($_SERVER["PHP_SELF"]) ?>" method="post">
         <h4>Say Hello!</h4>
         <p>Use this form to connect. Tell me about your project goals, needs, an idea or whatever you'd like. I'll will reply within normal social time =).</p>
         <fieldset>
