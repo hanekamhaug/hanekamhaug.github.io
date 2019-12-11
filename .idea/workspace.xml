@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14beb88a-a598-4c02-a64b-24d021c664a3" name="Default" comment="Update CNAME and README">
-      <change afterPath="$PROJECT_DIR$/images/Profilbilde.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bakgrunntop.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" afterPath="$PROJECT_DIR$/CNAME" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -150,7 +150,7 @@
       <workItem from="1522293375848" duration="1468000" />
       <workItem from="1522349460986" duration="1267000" />
       <workItem from="1522374315795" duration="3073000" />
-      <workItem from="1576083000945" duration="3184000" />
+      <workItem from="1576083000945" duration="4619000" />
     </task>
     <task id="LOCAL-00001" summary="deploy issues">
       <created>1508416414988</created>
@@ -263,7 +263,13 @@
       <option name="presentableId" value="LOCAL−00016" />
       <updated>1576083662008</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL−00017" summary="Update CNAME and README">
+      <created>1576086613673</created>
+      <option name="number" value="LOCAL−00017" />
+      <option name="presentableId" value="LOCAL−00017" />
+      <updated>1576086613673</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
