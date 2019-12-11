@@ -251,7 +251,7 @@ margin-left: -17px; line-height: 50px; }
 *************************/
 .my-skill .section-title .title-name-gray { left: 110px; }
 .my-skill h2 { font-weight: 600; margin-top: 0px; }
-.skill-content span { font-weight: 600; font-size: 20px; color: #9ea8b6; line-height: 30px; margin-bottom: 30px; display: block; margin-top: 20px; }
+.skill-content span { font-weight: 600; font-size: 20px; color: #9ea8b6; line-height: 30px; margin-bottom: 30px; display: block; margin-top: 40px; }
 .skill-content p { border-left: 3px solid orange; padding-left: 20px; font-style: italic; }
 /*skill*/
 .skill li {position: relative; margin-bottom: 55px; font-size:18px; text-transform: capitalize; color: #9ea8b6; font-weight: 600; }
